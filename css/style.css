@@ -89,6 +89,12 @@ p {
     height:60px;
     padding-top:0;
 }
+#quien p { 
+    color:#fff;
+}
+#quien h1 { 
+    color:#fff;
+}
 .navbar-inner {
     background: #181A1C;
     border-radius:0;
