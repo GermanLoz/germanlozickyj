@@ -304,9 +304,9 @@ p {
 }
 .whatsapp{
     position:fixed;
-    bottom: 20%;
-    right: 16px;
-    z-index: 700;
+    bottom: 15%;
+    right: 8px;
+    z-index: 500;
     box-shadow: 1px 1px 8px #000;
     padding: 10px 12px 11px 12px;
     border-radius: 50%;
